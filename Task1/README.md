@@ -87,5 +87,3 @@ Model evaluation using metrics like R2 Score and MSE
 (https://github.com/Ananya953/SCT_DS_1.git)
 
 ---
-
-This project is part of my internship at SkillCraft Technology-july 2025 Batch
