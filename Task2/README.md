@@ -38,7 +38,7 @@ The elbow method is used to find the ideal number of clusters (K). The graph bel
 
 ## 📊 Output Visualization
 
-![Customer Segments](output.png)
+![K-Means Output](output.png)
 
 Each color in the scatter plot represents a customer cluster based on spending and income. Yellow dots indicate the centroids.
 
@@ -67,10 +67,3 @@ Learned to visualize clusters and interpret them
 (https://github.com/Ananya953/SCT_DS_1.git)
 
 ---
-
-*Ananya T C*
-4th year
-Akshaya Institution of Technology
-
-This project is part of the SkillCraft Technology Intership-july 2025 Batch
-@SCT #SCT
