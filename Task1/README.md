@@ -74,12 +74,6 @@ Mean Squared Error: 1100000.52
 
 ---
 
-## Output visualization
-
-![customersegments] (output.png)
-
----
-
 ## What I Learned
 
 How to use Linear Regression in a real-world dataset
@@ -94,9 +88,4 @@ Model evaluation using metrics like R2 Score and MSE
 
 ---
 
-*Ananya T C*
-4th YEAR
-Akshaya Institution of Technology
-
-Thanks to @SkillCraftTechnology for providing this opportunity
-@SCT #SCT
+This project is part of my internship at SkillCraft Technology-july 2025 Batch
