@@ -24,6 +24,16 @@ Given the features of a house, such as its size (square feet), number of bedroom
 
 ---
 
+## Folder Structure
+
+SCT_DS_1\
+|__Task1\
+   |__house_data.csv
+   |__main.py
+   |__README.md
+
+---
+
 ## 📁 Dataset
 
 The dataset used is a simple CSV file with the following columns:
@@ -64,6 +74,12 @@ Mean Squared Error: 1100000.52
 
 ---
 
+## Output visualization
+
+![customersegments] (output.png)
+
+---
+
 ## What I Learned
 
 How to use Linear Regression in a real-world dataset
@@ -77,4 +93,10 @@ Model evaluation using metrics like R2 Score and MSE
 (https://github.com/Ananya953/SCT_DS_1.git)
 
 ---
+
+*Ananya T C*
+4th YEAR
+Akshaya Institution of Technology
+
 Thanks to @SkillCraftTechnology for providing this opportunity
+@SCT #SCT
