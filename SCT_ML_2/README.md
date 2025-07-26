@@ -30,6 +30,8 @@ SCT_DS_1\
    |__mall_customers.csv
    |__README.md
 
+---
+
 ## 📈 Elbow Method – Optimal Clusters
 
 The elbow method is used to find the ideal number of clusters (K). The graph below shows the "elbow point" around K=5.
