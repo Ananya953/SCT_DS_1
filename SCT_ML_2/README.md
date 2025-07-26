@@ -66,6 +66,6 @@ Learned to visualize clusters and interpret them
 
 ## Github link
 
-(https://github.com/Ananya953/SCT_DS_1.git)
+(https://github.com/Ananya953/SCT_ML.git)
 
 ---
