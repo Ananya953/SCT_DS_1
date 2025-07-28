@@ -32,7 +32,7 @@ Build an image classifier using *Support Vector Machine (SVM)* to distinguish be
 
 ## Folder Structure
 
-SCT_DS_1\
+SCT_ML_1\
 |__Task3\
 |  |__PerImages\
 |     |__Cat\train\
@@ -84,7 +84,7 @@ I learned how to build a basic image classifier using SVM I explored image prepr
 
 ## Github link
 
-(https://github.com/Ananya953/SCT_ML.git)
+(https://github.com/Ananya953/SCT_ML_3.git)
 
 ---
 
