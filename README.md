@@ -85,3 +85,11 @@ I learned how to build a basic image classifier using SVM I explored image prepr
 ## Github link
 
 (https://github.com/Ananya953/SCT_ML.git)
+
+---
+
+## **Ananya T C**
+4th year (Akshaya Institution of Technology)
+Email: ananyagowda2710@gmail.com
+Intern at SkillCraft Technology
+@SCT #SCT
